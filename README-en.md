@@ -1,8 +1,8 @@
 <div align="center">
 
-# MoneyPrinterTurbo 💸
+# DreamVideo AI💸
 
-### An All-in-One AI Short Video Generator
+###Your AI-powered short video creator
 
 Provide a video <b>topic</b> or <b>keyword</b>, and MoneyPrinterTurbo will generate the script, match footage, create subtitles and background music, and produce an HD short video.
 
